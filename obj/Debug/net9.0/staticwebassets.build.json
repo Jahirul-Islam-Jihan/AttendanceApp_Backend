@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "f2+J9ORmtum5z1BwIMMiR/sNcTB7O0OhSz1KATUsuaQ=",
+  "Source": "attendence_app",
+  "BasePath": "_content/attendence_app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\attendence_app.props" />
+</Project>
